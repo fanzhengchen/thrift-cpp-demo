@@ -1,7 +1,7 @@
 # thrift cpp demo with Non-blocking Server
 
-# Use cmake to find the location of thrift and libevent included directories and libraries
+### Use cmake to find the location of thrift and libevent included directories and libraries
 
-# launch server and client to test the thrift connection
+### launch server and client to test the thrift connection
 
-# I run it successfully on OSX
+### I run it successfully on OSX
