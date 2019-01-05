@@ -1,7 +1,0 @@
-/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/fanzhengchen/CLionProjects/thrift-demo
--- Found libevent: /usr/local/lib/libevent.dylib
-ON /usr/local/include || /usr/local/lib/libthrift.dylib || /usr/local/lib/libthriftnb.dylib
-ON /usr/local/lib/libevent.dylib || /usr/local/include 
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/fanzhengchen/CLionProjects/thrift-demo/cmake-build-debug

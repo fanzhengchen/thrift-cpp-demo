@@ -1,7 +1,0 @@
-/Users/fanzhengchen/CLionProjects/thrift-demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/fanzhengchen/CLionProjects/thrift-demo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/fanzhengchen/CLionProjects/thrift-demo/cmake-build-debug/CMakeFiles/server.dir
-/Users/fanzhengchen/CLionProjects/thrift-demo/cmake-build-debug/CMakeFiles/client.dir
-/Users/fanzhengchen/CLionProjects/thrift-demo/cmake-build-debug/gen-cpp/CMakeFiles/rebuild_cache.dir
-/Users/fanzhengchen/CLionProjects/thrift-demo/cmake-build-debug/gen-cpp/CMakeFiles/edit_cache.dir
-/Users/fanzhengchen/CLionProjects/thrift-demo/cmake-build-debug/gen-cpp/CMakeFiles/AIFILTER.dir
